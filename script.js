@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
         setTimeout(() => {
           element.style.opacity = '1';
           element.style.transform = 'translateY(0)';
-        }, Math.random() * 300); // Random delay for staggered effect
+        }, Math.random() * 200); // Random delay for staggered effect
         
         skillsObserver.unobserve(element);
       }

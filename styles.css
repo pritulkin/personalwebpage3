@@ -343,8 +343,8 @@ img {
 
 .skills-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.8rem;
   margin-top: 2rem;
 }
 
@@ -371,7 +371,7 @@ img {
 
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 1.25rem;
   margin-top: 2rem;
 }
@@ -432,6 +432,12 @@ img {
   flex-direction: column;
   gap: 0.7rem;
   font-weight: 600;
+}
+
+.contact-list p {
+  margin: 0;
+  color: var(--muted);
+  font-weight: 400;
 }
 
 @media (max-width: 760px) {
