@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://priitlinnakivi.eu/sitemap.xml
+LLMS: https://priitlinnakivi.eu/llms.txt
