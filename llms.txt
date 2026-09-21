@@ -1,0 +1,34 @@
+# Priit Linnakivi
+
+> Priit Linnakivi offers modern web development and quick computer repair services in Paide.
+
+## Services
+
+- [Veebiarendus ja arvutite abi](https://priitlinnakivi.eu/): Comprehensive web development and computer support for users and businesses.
+- [Veebilehtede loomine](https://priitlinnakivi.eu/): Learn how to create effective and functional websites.
+- [Arvutite remont](https://priitlinnakivi.eu/): Get assistance with computer repairs and maintenance.
+
+## Featured Examples
+
+- [MaireArt](https://maireart.eu): A portfolio website showcasing visual and professional presentation in art.
+- [Maire Rasta](https://mairerasta.eu): A personal and branded website suitable for professional representation and contact info.
+- [Molecule Master](https://moleculemaster.eu): An educational website focused on scientific topics with a clear structure.
+
+## Solutions
+
+- [Arvuti diagnostika](https://priitlinnakivi.eu/): Diagnose your computer issues with clear and understandable solutions.
+- [Viiruste eemaldus](https://priitlinnakivi.eu/): Learn how to remove viruses from your computer effectively.
+- [Windowsi paigaldus](https://priitlinnakivi.eu/): Get Windows installation services tailored to your needs.
+- [Andmete varundamine](https://priitlinnakivi.eu/): Understand data backup solutions to keep your information safe.
+- [Riistvara diagnostika](https://priitlinnakivi.eu/): Receive hardware diagnostics to identify and fix issues.
+- [Arvuti kiirendamine](https://priitlinnakivi.eu/): Find out how to speed up your computer's performance.
+- [SEO optimeerimine](https://priitlinnakivi.eu/): Learn about improving your website's visibility on search engines.
+- [Tarkvara seadistamine](https://priitlinnakivi.eu/): Get help with software setup and configuration.
+
+## Contact and Support
+
+- [Võta ühendust](https://priitlinnakivi.eu/contact): Reach out for inquiries or service requests.
+
+## About
+
+- [Minust](https://priitlinnakivi.eu/about): Discover who Priit Linnakivi is and his expertise in web development and computer repair.
